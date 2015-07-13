@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+=======
+hello world!
+summer is coming！
+>>>>>>> origin/master
